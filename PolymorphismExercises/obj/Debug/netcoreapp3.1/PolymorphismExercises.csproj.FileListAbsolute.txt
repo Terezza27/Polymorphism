@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp3.1\PolymorphismExercises.exe
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp3.1\PolymorphismExercises.deps.json
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp3.1\PolymorphismExercises.runtimeconfig.json
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp3.1\PolymorphismExercises.runtimeconfig.dev.json
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp3.1\PolymorphismExercises.dll
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp3.1\PolymorphismExercises.pdb
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp3.1\PolymorphismExercises.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp3.1\PolymorphismExercises.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp3.1\PolymorphismExercises.AssemblyInfo.cs
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp3.1\PolymorphismExercises.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp3.1\PolymorphismExercises.dll
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp3.1\PolymorphismExercises.pdb
+C:\Users\user\source\repos\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp3.1\PolymorphismExercises.genruntimeconfig.cache
